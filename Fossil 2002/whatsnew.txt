@@ -1,3 +1,7 @@
+v2.41 (1st March 2000)
+  * fixed monoster.bmp
+  * fixed shufrep.bmp
+
 v2.4 (29th February 2000)
   * major update for main.bmp (3d-display)
   * modified winshade-amplifier
