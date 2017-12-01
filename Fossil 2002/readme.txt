@@ -1,4 +1,4 @@
-Fossil 2002 v1.5 - Released October 31st 1998
+Fossil 2002 v1.6 - Released November 21st 1998
    
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
@@ -18,9 +18,9 @@ directory.
 
 [NOTES]
 
-This is my first Winamp skin. It was designed to look like the Fossil 2002 watch series, 
-which is a remake of the very first digital watches. My first intention was to make a
-modification of Hydro's Onkyo skin, but after getting into it I changed my plans.
+This is my first Winamp skin. It was designed to look like the Fossil 2002 watch series, a 
+remake of the popular Pulsar LED watches. My first intention was to make a modification of 
+Hydro's Onkyo skin, but after getting into it I changed my plans.
 Everything except the interface's texture and the buttons was created by me. Please check
 the credits for more.
 
