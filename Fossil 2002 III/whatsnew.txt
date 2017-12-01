@@ -1,3 +1,16 @@
+v3.0.3 (25th October 2008)
+ * added branding to titlebar.bmp (easter egg mode!)
+ * modified transitions between sliders and background in eqmain.bmp
+ * modified sliders in eqmain.bmp
+ * modified colors in viscolor.txt
+ * modified colors in pledit.txt
+ * reduced palettes of avs.bmp, balance.bmp, monoster.bmp, numbers.bmp, playpaus.bmp, posbar.bmp, text.bmp and volume.bmp
+ * stripped comments from viscolor.txt
+ * converted license.rtf to license.htm
+ * fixed titlebar-glitch in pledit.bmp
+ * fixed inactive-glitch in gen.bmp
+ * fixed onclick-glitch in video.bmp
+
 v3.0.2 (5th October 2008)
  * added dimmed numbers to main.bmp
  * added dimmed positionbar to main.bmp

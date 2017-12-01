@@ -1,8 +1,8 @@
 [Text]
-Normal=#E72D1F
-Current=#ffffff
+Normal=#c12f22
+Current=#ff4e36
 NormalBG=#190000
-SelectedBG=#64120C
+SelectedBG=#64120c
 Font=Tahoma
 mbBG=#190000
-mbFG=#E72D1F
+mbFG=#ff4e36
