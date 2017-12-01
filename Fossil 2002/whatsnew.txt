@@ -1,3 +1,9 @@
+v2.29 (23rd February 2000)
+  * anti-aliased fonts
+  * modified main.bmp
+  * modified playlist-buttons
+  * readme.txt optimized for winamp 2.6
+
 v2.28 (26th December 1999)
   * fixed digits in main.bmp
   * removed wrong pixel in main.bmp
