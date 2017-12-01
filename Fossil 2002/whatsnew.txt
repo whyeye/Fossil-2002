@@ -1,0 +1,43 @@
+v2.1 (17th April 1999)
+  * enhanced playlist and equalizer design
+  * modified equalizer buttons
+  * added skinned browser window (still beta)
+  * added whatsnew.txt
+
+v2.01 (2nd January 1999)
+  * fixed buttons in winshade-mode
+
+v2.0 (1st January 1999)
+  * added skinned equalizer and playlist
+  * resized close/minimize/winshade buttons
+  * redesigned winshade-mode
+  * modified readme.txt layout
+
+v1.7 (20th February 1999)
+  * same as v2.01, without equalizer and playlist skins
+
+v1.6 (21st November 1998)
+  * changes? can't remember
+
+v1.5 (31st October 1998)
+  * modified lights of shuffle and repeat buttons
+  * modified fossil logo
+  * modified background color of all images
+  * modified readme.txt
+
+v1.4 (15th October 1998)
+  * fixed OPIDV buttons
+
+v1.3 (5th October 1998)
+  * fixed active volume bar and balance bar
+
+v1.2 (4th October 1998)
+  * fixed buttons in winshade-mode
+  * modified readme.txt layout
+
+v1.1 (3rd October 1998)
+  * fixed active position bar
+  * changed peak color to red
+  * modified readme.txt
+
+v1.0 (3rd October)
