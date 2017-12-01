@@ -1,3 +1,7 @@
+v2.23 (14th May 1999)
+  * changed font-color in browser (no more beta)
+  * fixed eq_ex.bmp and titlebar.bmp
+
 v2.22 (11th May 1999)
   * removed temporary bitmap-file
   * added file_id.diz

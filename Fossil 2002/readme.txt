@@ -1,4 +1,4 @@
-Fossil 2002 v2.22 - Released May 11th 1999
+Fossil 2002 v2.23 - Released 14th May 1999
    
 
 TABLE OF CONTENTS
