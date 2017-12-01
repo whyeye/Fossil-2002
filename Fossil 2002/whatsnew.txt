@@ -1,3 +1,7 @@
+v2.2 (4th May 1999)
+  * added winshade-mode for qualizer
+  * renamed browser bitmap
+
 v2.12 (28th April 1999)
   * added cheat-support for titlebar (N-U-L-L-S-O-F-T)
   * modified browser buttons
