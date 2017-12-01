@@ -1,4 +1,4 @@
-Fossil 2002 V1.1 - Released October 3rd 1998
+Fossil 2002 V1.2 - Released October 4th 1998
    
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
@@ -23,9 +23,10 @@ the credits for more.
 
 CREDITS
 
-Fossil 2002 skin idea and realization by Jan T. Sott <yathosho@altavista.net>
-Silver texture made by Götz Bockstedte <goetz.pager@gmx.net>
-Buttons taken from Hydro's Onkyo skin for Winamp <jim@giganet.net>
+Fossil 2002 skin idea and realization - Jan T. Sott     <yathosho@altavista.net>
+Silver texture made by                - Götz Bockstedte <goetz.pager@gmx.net>
+
+Buttons taken from Hydro's Onkyo skin for Winamp
 
 
 LEGAL
@@ -34,3 +35,5 @@ Fossil 2002 is a trademark of Fossil, Inc. <www.fossil.com>
 
 Winamp is Copyright (C) 1997-1998 Nullsoft, Inc. and Justin Frankel.
 Winamp is a trademark of Nullsoft, Inc. <www.winamp.com>
+
+Onkyo is a trademark of Onkyo Electronics, Inc. <www.onkyo.co.jp>
