@@ -1,3 +1,12 @@
+v2.4 (29th February 2000)
+  * major update for main.bmp (3d-display)
+  * modified winshade-amplifier
+  * modified equalizer and winshade-equalizer
+  * modified playlist and winshade-playlist
+  * modified mini-browser
+  * readme.txt replaced by readme.htm
+  * fixed whatsnews.txt
+
 v2.29 (23rd February 2000)
   * anti-aliased fonts
   * modified main.bmp
@@ -87,4 +96,4 @@ v1.1 (3rd October 1998)
   * changed peak color to red
   * modified readme.txt
 
-v1.0 (3rd October)
+v1.0 (3rd October 1998)
