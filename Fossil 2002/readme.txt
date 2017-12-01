@@ -1,4 +1,4 @@
-Fossil 2002 v1.7 - Released February 20th 1999
+Fossil 2002 v2.0 - Released January 1st 1999
    
 
 TABLE OF CONTENTS
@@ -20,8 +20,7 @@ release of Winamp.
 
 2. INSTALLATION
 
-Unzipping to your winamp/skins directory will create a subfolder storing all data. Launch
-Winamp, go to the option-menu and use the skin-browser to select the skin.
+Unzipping to your winamp/skins directory will create a subfolder storing all data. Launch Winamp, go to the option-menu and use the skin-browser to select the skin.
 
 For users of Winamp 2.04 or higher it's enough to copy the ZIP-File to the winamp/skins
 directory.
@@ -29,10 +28,7 @@ directory.
 
 3. ABOUT
 
-This is my first Winamp skin. It was designed to look like the Fossil 2002 watch, which is a
-remake of the famous Pulsar LEDs. My first intention was to make a modification of Hydro's
-Onkyo skin, but after getting into it I changed my plans. Everything except the interface's
-texture and the buttons was created by me. Please check the credits for more.
+This is my first Winamp skin. It was designed to look like the Fossil 2002 watch, which is a remake of the famous Pulsar LEDs. My first intention was to make a modification of Hydro's Onkyo skin, but after getting into it I changed my plans. Everything except the interface's texture and the buttons was created by me. Please check the credits for more.
 
 
 4. CREDITS
