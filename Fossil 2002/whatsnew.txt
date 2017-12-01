@@ -1,3 +1,6 @@
+v2.46 (24th April 2000)
+  * fixed major bug in eqmain.bmp
+
 v2.45 (10th March 2000)
   * added avs support
   * fixed shufrep.bmp
