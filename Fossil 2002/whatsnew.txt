@@ -1,3 +1,7 @@
+v2.49 (1st March 2004)
+  * fixed shufrep.bmp
+  * fixed main.bmp
+
 v2.48 (30th October 2003)
   * fixed main.bmp
   * fixed monoster.bmp
