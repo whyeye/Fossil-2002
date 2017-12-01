@@ -1,4 +1,8 @@
-v2.11
+v2.12 (28th April 1999)
+  * added cheat-support for titlebar (N-U-L-L-S-O-F-T)
+  * modified browser buttons
+
+v2.11 (19th April 1999)
   * modified browser window (beta2 now)
 
 v2.1 (17th April 1999)
