@@ -1,43 +1,57 @@
-Fossil 2002 v1.6 - Released November 21st 1998
+Fossil 2002 v1.7 - Released February 20th 1999
    
+
+TABLE OF CONTENTS
+
+   1.   INTRODUCTION
+   2.   INSTALLATION
+   3.   ABOUT
+   4.   CREDITS
+   5.   CONTACT
+   6.   LEGAL
+    	
+
+1. INTRODUCTION
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
 are not able to use this skin as your Winamp interface. Check www.winamp.com for the latest
 release of Winamp.
- 
 
-[INSTALLATION NOTES]
 
-Unzipping to your winamp/skins directory will create a subfolder called 'Fossil 2002' which
-includes all skin data. Launch Winamp, go to the option-menu and use the skin-browser to
-select the skin.
+2. INSTALLATION
+
+Unzipping to your winamp/skins directory will create a subfolder storing all data. Launch
+Winamp, go to the option-menu and use the skin-browser to select the skin.
 
 For users of Winamp 2.04 or higher it's enough to copy the ZIP-File to the winamp/skins
 directory.
 
 
-[NOTES]
+3. ABOUT
 
-This is my first Winamp skin. It was designed to look like the Fossil 2002 watch series, a 
-remake of the popular Pulsar LED watches. My first intention was to make a modification of 
-Hydro's Onkyo skin, but after getting into it I changed my plans.
-Everything except the interface's texture and the buttons was created by me. Please check
-the credits for more.
-
-Check http://members.xoom.com/animeye/winamp for updates and other skins.
+This is my first Winamp skin. It was designed to look like the Fossil 2002 watch, which is a
+remake of the famous Pulsar LEDs. My first intention was to make a modification of Hydro's
+Onkyo skin, but after getting into it I changed my plans. Everything except the interface's
+texture and the buttons was created by me. Please check the credits for more.
 
 
-[CREDITS]
+4. CREDITS
 
-Idea and realization: Jan T. Sott <yathosho@altavista.net>
-Silver texture:       Götz Bockstedte <goetz.pager@gmx.net>
+Idea and realization: Jan T. Sott
+Silver texture      : Götz Bockstedte
 
-Buttons taken from Hydro's Onkyo skin
+Buttons taken from Hydro's Onkyo skin for Winamp
 
 
-[LEGAL]
+5. CONTACT
 
-Fossil 2002 is a trademark of Fossil, Inc. <www.fossil.com>
+E-Mail: yathosho@altavista.net
+URL   : http://members.xoom.com/animeye/winamp
 
-Winamp is Copyright (C) 1997-1998 Nullsoft, Inc. and Justin Frankel.
-Winamp is a trademark of Nullsoft, Inc. <www.winamp.com>
+
+6. LEGAL
+
+Fossil 2002 is a trademark of Fossil, Inc.
+
+Winamp is Copyright © 1997-1998 Nullsoft, Inc. and Justin Frankel.
+Winamp is a trademark of Nullsoft, Inc.
