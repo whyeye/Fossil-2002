@@ -1,3 +1,8 @@
+v3.0.2 (5th October 2008)
+ * added dimmed numbers to main.bmp
+ * added dimmed positionbar to main.bmp
+ * added dimmed EQ/PL controls to main.bmp
+
 v3.0.1 (4th October 2008)
  * modified shade-modes
  * fixed button-issues
