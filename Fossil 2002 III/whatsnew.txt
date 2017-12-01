@@ -1,4 +1,7 @@
-v3.0.4
+v3.0.5 (18th August 2009)
+ * modified colors in viscolor.txt (gradient!)
+
+v3.0.4 (8th August 2009)
  * fixed colors in viscolor.txt
 
 v3.0.3 (25th October 2008)
