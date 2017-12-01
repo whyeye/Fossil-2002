@@ -1,3 +1,8 @@
+v2.28 (26th December 1999)
+  * fixed digits in main.bmp
+  * removed wrong pixel in main.bmp
+  * new layout for readme.txt
+
 v2.27 (28th July 1999)
   * modified digits
   * modified main.bmp
