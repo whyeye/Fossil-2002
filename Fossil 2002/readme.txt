@@ -1,4 +1,4 @@
-Fossil 2002 V1.0 - Released October 3rd 1998
+Fossil 2002 V1.1 - Released October 3rd 1998
    
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
@@ -8,9 +8,8 @@ release of Winamp.
 
 INSTALLATION NOTES
 
-Unzip to your winamp/skins directory and make sure all data is kept in a subfolder named 
-'Fossil 2002'. Launch Winamp, go to the option-menu and use the skin-browser to select the 
-skin.
+Unzip to your winamp/skins directory and make sure all data is kept in a subfolder. Launch
+Winamp, go to the option-menu and use the skin-browser to select the skin.
 
 
 NOTES
