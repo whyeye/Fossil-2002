@@ -1,3 +1,7 @@
+v2.47 (3rd October 2002)
+  * added balance.bmp
+  * readme.txt returns
+
 v2.46 (24th April 2000)
   * fixed major bug in eqmain.bmp
 
