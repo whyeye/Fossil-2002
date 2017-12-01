@@ -1,3 +1,6 @@
+v2.25 (16th May 1999)
+  * fixed peak color
+
 v2.24 (15th May 1999)
   * added button to equalizer
 
