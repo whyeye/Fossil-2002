@@ -1,5 +1,8 @@
+v2.21 (5th May 1999)
+  * fixed winshade-mode for equalizer
+
 v2.2 (4th May 1999)
-  * added winshade-mode for qualizer
+  * added winshade-mode for equalizer
   * renamed browser bitmap
 
 v2.12 (28th April 1999)
