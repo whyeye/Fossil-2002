@@ -1,3 +1,7 @@
+v2.27 (28th July 1999)
+  * modified digits
+  * modified main.bmp
+
 v2.26 (3rd June 1999)
   * fixed minibrowser
   * modified readme.txt (new download url)
