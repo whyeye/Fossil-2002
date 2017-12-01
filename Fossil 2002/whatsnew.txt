@@ -1,3 +1,9 @@
+v2.5 (21st April 2005)
+  * added gen.bmp
+  * added genex.bmp
+  * added video.bmp
+  * added license.txt
+
 v2.49 (1st March 2004)
   * fixed shufrep.bmp
   * fixed main.bmp

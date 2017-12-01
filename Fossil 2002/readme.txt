@@ -1,9 +1,9 @@
-Fossil 2002 v2.49
-1st March 2004
+Fossil 2002 v2.5
+21st April 2005
 
 
 Author: Jan T. Sott
-Website: www.whyEye.org
+Website: http://whyeye.org or http://yathosho.deviantart.com
 
 
 My  very first Winamp skin, originally created on 3rd October 1998, using my
@@ -20,12 +20,3 @@ packaged them, you can download them directly from my homepage.
 
 Thanks to Götz Bockstedte who created the silver-texture for me. The buttons
 are modified, they appeared originally in Hydro's Onkyo skin.
-
-
-THIS  WINAMP SKIN  IS  COPYRIGHTED TO  JAN T.  SOTT,  ANY MODIFICATIONS  ARE
-ACCEPTED  AS LONG AS YOU MENTION ME AS ORIGINAL AUTHOR AND SEND ME A COPY OF
-THE MODIFIED VERSION.
-
-IF  YOU  ARE AUTHOR  OR PUBLISHER  OF A  MAGAZINE OR  WEBMASTER OF A WEBSITE
-HOSTING  WINAMP  SKINS, YOU MAY  PUBLISH THIS SKIN  IN ITS ORIGINAL FORM, NO
-FURTHER PERMISSION IS REQUIRED. PLEASE NOTIFY ME ON YOUR PUBLICATION.
