@@ -1,3 +1,7 @@
+v3.11 (3rd October 2009)
+ * improved transitions in upper parts of resizable windows
+ * modified border-size for in avs.bmp, gen.bmp and video.bmp
+
 v3.0.5 (18th August 2009)
  * modified colors in viscolor.txt (gradient!)
 
