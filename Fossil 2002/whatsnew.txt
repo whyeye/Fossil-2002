@@ -1,3 +1,7 @@
+v2.22 (11th May 1999)
+  * removed temporary bitmap-file
+  * added file_id.diz
+
 v2.21 (5th May 1999)
   * fixed winshade-mode for equalizer
 
