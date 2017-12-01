@@ -1,3 +1,7 @@
+v2.42 (1st March 2000)
+  * fixed monoster.bmp
+  * fixed readme.htm
+
 v2.41 (1st March 2000)
   * fixed monoster.bmp
   * fixed shufrep.bmp
