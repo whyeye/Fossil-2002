@@ -1,4 +1,4 @@
-Fossil 2002 v2.25 - Released 16th May 1999
+Fossil 2002 v2.26 - Released 3rd June 1999
    
 
 TABLE OF CONTENTS
@@ -45,8 +45,8 @@ Buttons taken from Hydro's Onkyo skin for Winamp
 
 5. CONTACT
 
-E-Mail: yathosho@altavista.net
-URL   : http://members.xoom.com/animeye/winamp
+E-Mail: skins@whyEye.de
+URL   : www.whyEye.de/skins
 
 
 6. LEGAL
