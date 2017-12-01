@@ -1,5 +1,5 @@
-Fossil 2002 v2.47
-3rd October 2002
+Fossil 2002 v2.48
+30th October 2003
 
 
 Author: Jan T. Sott
