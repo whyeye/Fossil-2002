@@ -1,5 +1,5 @@
-Fossil 2002 v3.0.2
-October 25th, 2008
+Fossil 2002 v3.0.4
+August 8th, 2009
 
 by Jan T. Sott
 
