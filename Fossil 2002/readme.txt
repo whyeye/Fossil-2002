@@ -1,4 +1,4 @@
-Fossil 2002 V1.3 - Released October 5th 1998
+Fossil 2002 v1.4 - Released October 15th 1998
    
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
