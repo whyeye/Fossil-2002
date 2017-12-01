@@ -1,4 +1,4 @@
-Fossil 2002 V1.2 - Released October 4th 1998
+Fossil 2002 V1.3 - Released October 5th 1998
    
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
@@ -23,8 +23,8 @@ the credits for more.
 
 CREDITS
 
-Fossil 2002 skin idea and realization - Jan T. Sott     <yathosho@altavista.net>
-Silver texture made by                - Götz Bockstedte <goetz.pager@gmx.net>
+Idea and realization - Jan T. Sott     <yathosho@altavista.net>
+Silver texture       - Götz Bockstedte <goetz.pager@gmx.net>
 
 Buttons taken from Hydro's Onkyo skin for Winamp
 
